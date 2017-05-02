@@ -1,6 +1,3 @@
-## Question Level: 		
-[Beginner/Intermediate/Advanced]		
-		
 ## Question: 		
 [What is your query? Please add a single line here]		
 		
