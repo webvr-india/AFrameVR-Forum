@@ -2,7 +2,10 @@
 [What is your query? Please add a single line here]		
 		
 ## More Information: 		
-[Please add complete description of your error/query here]		
+[Please add complete description of your error/query here]
+
+## Browsers you checked in: 		
+[Please add the list of browsers in which you tested your code]
 		
 ## Code: 		
 [Please post the complete code so that we can look into it. Github recognises code only when preceded by atleast three spaces on every line]		
